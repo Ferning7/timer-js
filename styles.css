@@ -28,9 +28,9 @@ body {
 }
 
 .aviso-evento {
-    font-size: 2em;
+    font-size: 4em;
     font-weight: bold;
-    color: #2e7d32;
+    color: #18921e;
     margin-top: 15px;
     opacity: 0;
     transition: opacity 0.5s ease-in-out;
