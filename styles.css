@@ -10,7 +10,7 @@ body {
 
 .cronometro-container {
     background-color: #141258;
-    padding: 40px;
+    padding: 80px;
     border-radius: 15px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
     text-align: center;
@@ -18,14 +18,9 @@ body {
     width: 90%;
 }
 
-h1 {
-    color: #f6f6f6;
-    margin-bottom: 25px;
-    font-size: 1.8em;
-}
 
 .display-tempo {
-    font-size: 4em;
+    font-size: 6em;
     font-weight: bold;
     color: #ffffff;
     margin-bottom: 20px;
